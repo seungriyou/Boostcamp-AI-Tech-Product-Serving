@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+mmsegmentation/
+
+# part2-02
+*.pth
+inference.ipynb
