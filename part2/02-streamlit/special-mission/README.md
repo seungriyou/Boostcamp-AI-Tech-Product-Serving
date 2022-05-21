@@ -27,6 +27,12 @@
 - 제출하는 파일은 `assets`나 `mmsegmentation` 내용을 제외한 `app.py`, `README.md`, `requirements.txt`, `streamlit_semantic_segmentation_유승리.mp4` 입니다.
 - 실제 실행에 필요한 절차가 많기 때문에 `streamlit_semantic_segmentation_유승리.mp4` 데모 영상을 봐주시면 됩니다.
 
+## 스크린샷
+<img width="1624" alt="2" src="https://user-images.githubusercontent.com/43572543/169632998-4228c1bf-706b-4d24-8a3b-7f48f7f7f11b.png">
+<img width="1624" alt="4" src="https://user-images.githubusercontent.com/43572543/169633009-6a401796-b4d6-4a20-9a42-77ea5d60271f.png">
+<img width="1624" alt="5" src="https://user-images.githubusercontent.com/43572543/169633012-9380c87f-ea02-48a8-a50e-61ea80be7e8d.png">
+<img width="1624" alt="6" src="https://user-images.githubusercontent.com/43572543/169633015-544e3480-d551-414c-a972-6c8b99c1e4ae.png">
+
 ## 디렉토리 구조
 ```
 |-- README.md
@@ -34,8 +40,7 @@
 |-- assets
 |   |-- 0511-upernet_swin_l_full_pl.py
 |   |-- class_dict.csv
-|   |-- epoch_46.pth
-|   `-- inference.ipynb
+|   `-- epoch_46.pth
 |-- mmsegmentation
 |   |-- CITATION.cff
 |   |-- LICENSE
